@@ -29,7 +29,7 @@ Here are a few of my most recent and favorite projects:
 ### 3. **Piggy Pal (In Progress)**
    - A fun project where I created a basic **bank account system** using **localStorage** to simulate deposit/withdrawal functionality.
    - Aimed to practice working with browser storage and basic JavaScript logic.
-   - 
+     
 ### 4. **Etch-A-Sketch (The Odin Project)**
    - A pixel-drawing web app that allows users to create art by drawing with their mouse.
    - Built with **HTML**, **CSS**, and **JavaScript**.
