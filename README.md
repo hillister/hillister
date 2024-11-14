@@ -17,14 +17,14 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer** currently le
 
 Here are a few of my most recent and favorite projects:
 
-### 1. **Admin Dashboard (The Odin Project)**
+### 1. **Vigenère Cipher Maker**
+   - A tool to encrypt messages using the **Vigenère cipher**.
+   - Users can input a message and a key to generate an encrypted version of the text.
+
+### 2. **Admin Dashboard (The Odin Project)**
    - A simple admin dashboard layout built using **HTML**, **CSS**, and **JavaScript**, with a focus on **CSS Grid**.
    - Designed to practice layout techniques and build a flexible, grid-based structure for a dashboard interface.
    - (https://hillister.github.io/admin-dashboard/)
-
-### 2. **Vigenère Cipher Maker (In Progress)**
-   - A tool to encrypt messages using the **Vigenère cipher**.
-   - Currently under development – check back for the finished version!
 
 ### 3. **Piggy Pal (In Progress)**
    - A fun project where I created a basic **bank account system** using **localStorage** to simulate deposit/withdrawal functionality.
