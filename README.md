@@ -27,7 +27,7 @@ Here are a few of my most recent and favorite projects:
    - Designed to practice layout techniques and build a flexible, grid-based structure for a dashboard interface.
    - (https://hillister.github.io/admin-dashboard/)
 
-### 3. **Piggy Pal (In Progress)**
+### 3. **Bank Account system (In Progress)**
    - A fun project where I created a basic **bank account system** using **localStorage** to simulate deposit/withdrawal functionality.
    - Aimed to practice working with browser storage and basic JavaScript logic.
      
