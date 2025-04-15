@@ -17,20 +17,20 @@ I'm an aspiring **Software Engineer** currently learning and building projects w
 
 Here are a few of my most recent projects:
 
-### 1. **Vigenère Cipher Maker**
+### 1. **Movie Streaming Finder**
+   - A tool to find streaming platforms for movies based on your location.
+   - Uses external APIs to fetch movie data and streaming options (free, rent, or buy) from popular platforms.
+   - https://hillister.github.io/where2watch/
+
+### 2. **Vigenère Cipher Maker**
    - A tool to encrypt messages using the **Vigenère cipher**.
    - Users can input a message and a key to generate an encrypted version of the text.
    - https://hillister.github.io/Cipher/
      
-### 2. **Fortune Cookie**
+### 3. **Fortune Cookie**
    - A fun web app where users can click a virtual cookie to receive a random fortune.
    - Built with HTML, CSS, and JavaScript.
    - (https://hillister.github.io/fortune_cookie/)
-
-### 3. **Admin Dashboard**
-   - A simple admin dashboard layout built using **HTML**, **CSS**, and **JavaScript**, with a focus on **CSS Grid**.
-   - Designed to practice layout techniques and build a flexible, grid-based structure for a dashboard interface.
-   - (https://hillister.github.io/admin-dashboard/)
 
 ### 4. **Etch-A-Sketch**
    - A pixel-drawing web app that allows users to create art by drawing with their mouse.
