@@ -11,7 +11,7 @@ I'm an aspiring **Software Engineer** currently learning and building projects w
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React (learning)
 - **Tools**: Git, GitHub, VS Code, Browser DevTools
-- **Other**: Web Development, Local Storage, **Ubuntu Linux VM**, Linux Command Line
+- **Other**: Frontend APIs, Web Development, Local Storage, **Ubuntu Linux VM**, Linux Command Line
 
 ## 🔧 Projects
 
